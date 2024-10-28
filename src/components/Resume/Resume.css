@@ -1,0 +1,19 @@
+.content-resume {
+  background: linear-gradient(
+    90deg,
+    #5e82b999,
+    #27e17199
+  ); /* Dégradé de gauche à droite */
+  background-color: #222;
+  padding: 3%;
+}
+
+.global-alt-title {
+  text-align: left;
+  background-color: #dddddd55;
+  padding: 2%;
+  border-radius: 10%;
+  border: 1px solid #ddd;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

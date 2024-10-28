@@ -1,0 +1,24 @@
+.contact-content {
+  background-color: #222;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.global-title {
+  text-align: left;
+  align-items: center;
+}
+
+.info-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.global-button {
+  width: 200px;
+}
