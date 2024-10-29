@@ -1,42 +1,75 @@
 .MainText {
-    font-size: 2.5rem;
-    display: flex;
-    padding-top: 10%;
-    padding-left: 7%;
-    padding-right: 7%;
-    font-weight: bold;
-    background: linear-gradient(90deg, #5e82b9, #27e171);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+  font-size: 2.5rem;
+  display: flex;
+  padding-top: 10%;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-bottom: 12%;
+  font-weight: bold;
+  background: linear-gradient(90deg, #5e82b9, #27e171);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.all-home {
+  background-color: #222;
+  padding-bottom: 10%;
 }
 
 .project-carousel {
-    width: 50%;
+  width: 50%;
 }
 
 .content-home {
-    align-items: center;
-    padding: 5%;
+  align-items: center;
+  padding: 5%;
+  display: flex;
 }
+
+.list-home {
+  border-color: #27e171;
+  border-radius: 10px;
+  border: 1px solid #27e171;
+  margin: 3%;
+  padding: 1%;
+  width: 70%;
+  min-width: fit-content;
+  color: whitesmoke;
+  text-align: left;
+}
+
+.global-title {
+  padding-left: 10%;
+}
+
 .content-text {
-    color: white;
-    font-size: 1.5rem;
-    padding: 5%;
-    text-align: justify;
+  color: white;
+  font-size: 1.5rem;
+  padding: 5%;
+  text-align: justify
 }
 
 @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(20px);
   }
-  
-  .fade-in {
-    animation: fadeIn 2.5s ease forwards;
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
+}
+
+.fade-in {
+  animation: fadeIn 2.5s ease forwards;
+}
+
+@media (max-width: 800px) {
+  .content-home {
+    align-items: center;
+    padding: 5%;
+    display: flex;
+    flex-direction: column
+  }
+}

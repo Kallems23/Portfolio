@@ -1,0 +1,38 @@
+.content-projects {
+  background-color: #333;
+  padding: 5%;
+}
+
+.global-title {
+    font-size: 50px;
+}
+
+.projects-zone {
+  text-align: left;
+  background-color: #dddddd22;
+  padding: 2%;
+  margin: 3%;
+  border-radius: 15px;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo-inline {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2%;
+    font-size: x-large;
+}
+
+
+.tech-icon {
+    font-size: 50px; /* Taille de l'icône */
+    color: whitesmoke; /* Couleur de l'icône */
+    transition: transform 0.3s; /* Animation lors du survol */
+}
+
+.tech-icon:hover {
+    transform: scale(1.1); /* Agrandit l'icône au survol */
+    color: var(--hover-color); /* Couleur de l'icône */
+}

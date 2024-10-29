@@ -4,6 +4,7 @@ import './Banner.css';
 
 const Banner = () => (
   <div className="banner">
+    <h3 className='ruban'> I have already work with this technologies :</h3>
     <div className="banner-content">
       <div className="icon-container" style={{backgroundColor: SiPythonHex}}>
         <SiPython color="#FFFFFF" size={50} />
