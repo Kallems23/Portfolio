@@ -10,8 +10,7 @@ const Home = () => {
         engineering school. Currently, I am looking for a 22-week internship
         outside of France.
       </span>
-      
-      <Banner />
+
     </div>
   );
 };

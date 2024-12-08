@@ -20,7 +20,7 @@ const Contact = () => {
 
   return (
     <div id="contact" className="contact-content">
-      <h1 className="global-title">Let's talk about our project</h1>
+      <h1 className="info-list">Let's talk about our project</h1>
       <div className="info-list">
         <button className="global-button" onClick={copyToClipboard}>
           Mail
