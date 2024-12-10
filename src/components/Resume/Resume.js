@@ -23,7 +23,7 @@ const Resume = () => {
           style={{ maxWidth: "1000px", width: "90%" }}
         />
       </div>
-      <button className="global-button" onClick={handleDownload}>Télécharger le PDF</button>
+      <button className="global-button" onClick={handleDownload}>Download PDF</button>
     </div>
   );
 };

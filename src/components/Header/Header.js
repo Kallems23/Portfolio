@@ -77,7 +77,14 @@ function Header() {
             >
               {pages.map((page) => (
                 <MenuItem key={page} href={`#${page.toLowerCase()}`} onClick={handleCloseNavMenu}>
-                  <Typography sx={{ textAlign: 'center' }}>{page}</Typography>
+                  <Button
+                key={page}
+                href={`#${page.toLowerCase()}`}
+                onClick={handleCloseNavMenu}
+                sx={{ my: 2, color: 'white', display: 'block' }}
+              >
+                {page}
+              </Button>
                 </MenuItem>
               ))}
             </Menu>

@@ -91,11 +91,11 @@ const darkTheme = createTheme({
   }, []);
 
   return (
-    <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
+    <ThemeProvider theme={darkMode ? darkTheme : darkTheme}>
     <CssBaseline />
     <div className="App">
       <Header />
-      <Switch checked={darkMode} onChange={handleThemeChange} />
+
 
       
         <Stack spacing={10} style={{ padding: '40px 16px' }}>
