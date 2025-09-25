@@ -4,47 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c0b06c-5d68-4da5-ab04-613c7c6edfa1" name="Changes" comment="clean the project">
+    <list default="true" id="86c0b06c-5d68-4da5-ab04-613c7c6edfa1" name="Changes" comment="new portfolio">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate-react-cli.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CV_NoahCherblanc.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/qrcode_corayon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GlobalStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logo_polytech.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Education/Education.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Education/Education.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Banner.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Banner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Intro/Intro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/ECOM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/qrcode_corayon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/CV.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Resume.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume/Resume.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/headers/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/headers/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/homes/home-1/Services.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/homes/home-1/Services.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kallems23"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kallems23/Portfolio.git",
+    "accountId": "d3784483-bdc9-436d-806e-0d8c962ec2b4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -62,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/noahc/Desktop/Portfolio/Portfolio"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/noahc/Desktop/Portfolio/Portfolio&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\noahc\Downloads\themeforest-rN6eCzGF-blayden-personal-portfolio-resume-nextjs-template\blayden\public\img\noah" />
@@ -133,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758717231275</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new portfolio">
+      <option name="closed" value="true" />
+      <created>1758784899548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758784899548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +126,7 @@
     <MESSAGE value="Graphic part is ready !" />
     <MESSAGE value="detail projets" />
     <MESSAGE value="clean the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean the project" />
+    <MESSAGE value="new portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="new portfolio" />
   </component>
 </project>

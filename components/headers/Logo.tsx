@@ -44,7 +44,7 @@ export default function Logo() {
           </g>
         </svg>
         {/* logo text */}
-        <span className="logo-text">Noah Cherblanc</span>
+        <span className="logo-text">Noah</span>
       </a>
     </div>
   );

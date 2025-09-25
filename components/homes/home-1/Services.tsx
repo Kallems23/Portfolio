@@ -4,6 +4,7 @@ import StackCards from "@/components/animation/StackCards";
 import Image from "next/image";
 import servicesData from "@/data/services.json";
 import { useService, Service } from "@/contexts/ServiceContext";
+import { getImagePath } from "@/lib/utils";
 
 export default function Services() {
   return (
@@ -93,14 +94,14 @@ function ServiceItem({ item }: { item: Service }) {
         <Image
           className="service-img service-img-s"
           alt={item.title || "Service"}
-          src={item.imgS || ""}
+          src={getImagePath(item.imgS  || "")}
           width={1200}
           height={1000}
         />
         <Image
           className="service-img service-img-m"
           alt={item.title || "Service"}
-          src={item.imgM || ""}
+          src={getImagePath(item.imgM || "")}
           width={800}
           height={1000}
         />
