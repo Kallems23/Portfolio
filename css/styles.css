@@ -1,0 +1,109 @@
+@import url("./plugins.css");
+@import url("./main.css");
+
+.form-error {
+  color: red;
+  font-size: 16px;
+  margin-top: 8px;
+}
+.portfolio-popup-bg,
+.portfolio-popup-wrap {
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+.portfolio-popup-bg.active,
+.portfolio-popup-wrap.active {
+  opacity: 1;
+  visibility: visible;
+}
+.popup-active {
+  overflow: hidden;
+  margin-right: 6px;
+}
+.yarl__slide_title {
+  padding-left: 200px;
+  text-align: center;
+}
+.yarl__button[title="Share"] {
+  transform: scale(0.8);
+  padding-bottom: 10px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.yarl__slide_description_container,
+.yarl__slide_title_container {
+  display: none;
+}
+.yarl__root {
+  --yarl__color_backdrop: #212121;
+}
+.yarl__slide_image {
+  max-height: calc(100vh - 320px) !important;
+}
+.yarl__button.yarl__navigation_prev,
+.yarl__button.yarl__navigation_next {
+  width: 50px !important;
+  height: 50px !important;
+  line-height: 50px !important;
+  -moz-border-radius: 50% !important;
+  border-radius: 50% !important;
+  background-color: #aa70e0;
+  color: #27293b;
+  font-size: 4.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.yarl__button.yarl__navigation_prev svg,
+.yarl__button.yarl__navigation_next svg {
+  transform: scale(2);
+}
+@media (min-width: 768px) {
+  .yarl__button.yarl__navigation_prev {
+    left: 16px;
+    width: 44px;
+    height: 44px;
+    line-height: 44px;
+  }
+  .yarl__button.yarl__navigation_next {
+    right: 16px;
+    width: 44px;
+    height: 44px;
+    line-height: 44px;
+  }
+}
+.yarl__toolbar {
+  .yarl__button[title="Share"] {
+    padding-bottom: 0;
+    transform: scale(1);
+  }
+  .yarl__button {
+    width: 45px !important;
+    height: 45px !important;
+    background-color: rgba(0, 0, 0, 0.54) !important;
+    border: 1px solid rgba(255, 255, 255, 0.4) !important;
+    border-radius: 50px !important;
+    padding: 0 !important;
+    margin: 5px 3px !important;
+  }
+  .yarl__icon {
+    height: auto !important;
+    width: auto !important;
+  }
+}
+
+.promo-image,
+.animate-in-up,
+.hero-animate-in-up,
+.fade-in {
+  opacity: 0;
+}
+.mxd-background {
+  fill: var(--neutral-bright);
+}
+.mxd-cat {
+  clip-path: url(#mxd-path-id);
+  fill: var(--t-opp-bright);
+}
