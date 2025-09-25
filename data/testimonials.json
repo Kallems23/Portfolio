@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Testimonial",
+    "text": "This is a sample testimonial text.",
+    "image": "/img/testimonials/sample.jpg",
+    "avatar": "/img/testimonials/sample-avatar.jpg",
+    "author": "Sample Author",
+    "position": "Sample Position",
+    "company": "Sample Company",
+    "link": "#",
+    "quote": "This is a sample quote from the testimonial."
+  }
+]

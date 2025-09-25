@@ -1,0 +1,69 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "date": "2022 - 2025",
+      "title": "Engineering IT school",
+      "source": "Polytech Grenoble",
+      "sourceUrl": "https://polytech.grenoble-inp.fr/fr/formations/informatique-1#page-presentation",
+      "description": "IT & enginneer skills, dev project management."
+    },
+    {
+      "id": 2,
+      "date": "2020 - 2022",
+      "title": "PEIP A",
+      "source": "Polytech Clermont",
+      "sourceUrl": "https://www.polytech-reseau.org/cycle-preparatoire-peip/",
+      "description": "Polytech engineering school preparation (math, physics, IT)."
+    },
+    {
+      "id": 3,
+      "date": "2017 - 2020",
+      "title": "Scientific baccalaureate",
+      "source": "Lycée Lafayette Brioude",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baccalaur%C3%A9at#S%C3%A9rie_scientifique_(S)",
+      "description": "Mathematics speciality."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "date": "April 2025 - August 2025",
+      "title": "Web software dev internship",
+      "source": "Q-Leap, Bertrange, Luxembourg",
+      "sourceUrl": "https://q-leap.eu/",
+      "description": "Migrate framework versions to newer ones\nOptimize application's process and communication \nManage database migration\nUsing AI tools to boost my productivity."
+    },
+    {
+      "id": 2,
+      "date": "April 2024 - August 2024",
+      "title": "Software development internship",
+      "source": "GIPSA-LAB, Grenoble, France",
+      "sourceUrl": "https://agora-creative.acroe-ica.org/organisme/acroe/",
+      "description": "Work on GENESIS/MIMESIS, 2 modelers-simulators used for artistic creation by multisensory\nphysical modeling and simulation.\nAdding new fonctionnality, and debugging\nDeep interface conception\nLearn new librairies (Qt)."
+    },
+    {
+      "id": 3,
+      "date": "Summer job 2020 - 2023",
+      "title": "Secretariat & Store management",
+      "source": "Salaison Philis, Vieille-Brioude, France",
+      "sourceUrl": "https://www.commerce-brioudesudauvergne.fr/commerces-et-services/salaisons-philis/",
+      "description": "Experiences in compagnies\nOrganize different tasks in parallel."
+    }
+  ],
+  "tools": [
+    { "id": 1, "src": "/img/icons/icon-java.svg", "alt": "Java" },
+    { "id": 2, "src": "/img/icons/icon-spring-boot.svg", "alt": "Spring" },
+    {
+      "id": 3,
+      "src": "/img/icons/icon-intellij.svg",
+      "alt": "IntelliJ"
+    },
+    { "id": 4, "src": "/img/icons/icon-c.svg", "alt": "C++" },
+    { "id": 5, "src": "/img/icons/icon-python.svg", "alt": "Python" },
+    { "id": 6, "src": "/img/icons/icon-godot.svg", "alt": "Godot" },
+    { "id": 7, "src": "/img/icons/icon-jira.svg", "alt": "Jira" },
+    { "id": 8, "src": "/img/icons/icon-github.svg", "alt": "Github" },
+    { "id": 9, "src": "/img/icons/icon-notion.svg", "alt": "Notion" }
+  ]
+}

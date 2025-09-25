@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce web project",
+    "icon": "ph-thin ph-angular-logo",
+    "text": "Building an e-commerce website for a real client.",
+    "type": "School project",
+    "category": "Web application",
+    "skills": "FrontEnd, Scrum Master",
+    "status": "Done",
+    "details": "The pedagogical objective of the eCOM course is project-based learning to design, develop, and deploy ergonomic Internet services (e-commerce, service exchanges, social networks, etc.) as a team. The service theme is renewed each year and is proposed by an external \"client\" to Polytech Grenoble. Technologies cover frontend SPA components, backend, and databases. Microservices architecture is advocated. Each team organizes development and operations (DevOps) by applying the SCRUM method. The MVP of the service is deployed with an IaaS cloud host. Other aspects considered include code quality, vulnerability, GDPR compliance, resilience, and more",
+    "approach": "Our approach to this project combined agile methodology with real-world client requirements. We worked as a cohesive team to deliver a fully functional MVP within the academic timeframe while meeting professional standards.",
+    "expertise": "Through this project, I developed expertise in full-stack development, SCRUM methodology, and DevOps practices. The experience provided valuable insight into client communication, project management, and deploying scalable web applications in cloud environments.",
+    "imgS": "/img/noah/MMM_800_1000.png",
+    "imgM": "/img/noah/MMM_800_1000.png"
+  },
+  {
+    "id": 2,
+    "title": "Special QRCode Generator",
+    "icon": "ph-thin ph-qr-code",
+    "text": "Chalenge for the Nuit de l'info 2024 challenge, build a special QRCode generator with specific shape",
+    "type": "Code challenge",
+    "category": "Tools",
+    "skills": "BackEnd, QRCode, Work fast",
+    "status": "Done",
+    "details": "During the \"Nuit de l'info 2024,\" a hackathon, I had to create a rather unique QR code generator. This generator had to take the shape of a Pokémon. The challenge had two main aspects: first, time, as I had to implement the entire algorithm in just a few short hours, and second, innovation, as I had to devise a solution to this problem that would be feasible within the constraints of QR codes.",
+    "approach": "Faced with the time pressure of a hackathon, I adopted a rapid prototyping approach. I quickly researched QR code structure and constraints, then designed an algorithm that could modify the visual appearance while maintaining readability. The key was balancing creativity with technical feasibility.",
+    "expertise": "This challenge pushed my problem-solving skills to the limit and taught me to work efficiently under extreme time constraints. I gained deep knowledge of QR code algorithms, image processing techniques, and learned how to quickly implement complex solutions while maintaining code quality even in high-pressure situations.",
+    "imgS": "/img/noah/QR_800_1000.png",
+    "imgM": "/img/noah/QR_800_1000.png"
+  },
+
+
+  {
+    "id": 3,
+    "title": "Nuit de l'info 2023",
+    "icon": "ph-thin ph-moon-stars",
+    "text": "Create a web application in one night.",
+    "type": "Code challenge",
+    "category": "Web Application",
+    "skills": "FrontEnd, Team management",
+    "status": "Done",
+    "details": "The Nuit de l'Info is a national competition that brings together students, teachers and companies to work together on the development of a web application. The Night takes place every year, from the first Thursday of December, sunset, until sunrise the next morning. Participants have one night to propose, implement and package a Web 2.0 application.",
+    "approach": "As team leader, I organized our group by quickly assessing each member's strengths and assigning roles accordingly. We adopted a sprint-based approach with hourly check-ins to ensure progress and adapt our strategy. I focused on maintaining team morale and clear communication throughout the intense 12-hour development cycle.",
+    "expertise": "Leading a diverse team under extreme time pressure taught me invaluable lessons in crisis management and adaptive leadership. I developed skills in rapid decision-making, effective delegation, and maintaining team cohesion during high-stress situations. This experience significantly improved my ability to manage projects and people under challenging conditions.",
+    "imgS": "/img/noah/NDI_800_1000.png",
+    "imgM": "/img/noah/NDI_800_1000.png"
+  }
+]

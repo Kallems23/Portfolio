@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:local:*)",
+      "Bash(npm run build:github:*)",
+      "Bash(node:*)",
+      "Bash(npm run deploy:*)",
+      "Bash(npx next:*)",
+      "Bash(dir:*)",
+      "WebFetch(domain:kallems23.github.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
