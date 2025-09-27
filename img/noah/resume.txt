@@ -59,3 +59,21 @@
         "imgS": "/img/services/1200x1000_s03.webp",
         "imgM": "/img/services/800x1000_s03.webp"
       }
+      ,
+        {
+          "id": 4,
+          "title": "Full Game Engine + Game : PTPP",
+          "icon": "ph-thin ph-game-controller",
+          "text": "Create a little game engine for strategy game.",
+          "type": "Personnal project",
+          "category": "Game engine",
+          "skills": "UI/UX, game algorithms",
+          "status": "Done",
+          "details": "Not being fully satisfied with the work done on the team project: Game Engine + Game : Nightmare Monster Attack, I wanted to take on a similar project, this time working independently. More precisely, rebuild the game engine from a completely blank project and not from a project given by the professors.",
+          "approach": ".",
+          "expertise": ".",
+          "imgS": "/img/services/1200x1000_s03.webp",
+          "imgM": "/img/services/800x1000_s03.webp",
+          "videoUrl": "https://www.youtube.com/embed/lYp3QB-LROg",
+          "customHtml": "<div class='custom-content'><p>Turn on substitle for french description</p></div>"
+        }
